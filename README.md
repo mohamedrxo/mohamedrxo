@@ -32,29 +32,8 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 
 ## GitHub Statistics
 
-### Overview & Languages
-<table>
-  <tr>
-    <td width="50%">
-      
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true)
-
-    </td>
-    <td width="50%">
-      
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true)
-
-    </td>
-  </tr>
-</table>
-
----
-
 ### Activity & Streaks
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
-
-### Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10&row=1&columns=4)
 
 ### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
