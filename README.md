@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<b>Full Stack Developer • Mobile Developer • AI & Machine Learning Enthusiast</b>
+<b>Full Stack Developer • Mobile Developer • AI & Machine Learning Developer</b>
 </p>
 
 <p align="center">
@@ -28,37 +28,32 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 
 - Full Stack Web Developer
 - Mobile Application Developer
-- AI & Machine Learning Enthusiast
+- AI & Machine Learning Developer
 - Open Source Contributor
-- Creator of **SimpleGrade**, a lightweight PyTorch-inspired autograd library available on PyPI
 
 ---
 
 ## GitHub Statistics
 
+<div align="center">
+
+### 📈 Performance & Skills
 <table>
-<tr>
-<td>
-
-![](https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true)
-
-</td>
-<td>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"></td>
+  </tr>
 </table>
 
-![](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
+### 🔥 Streak & Trophies
+![Streak](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedrxo&theme=github_dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10&row=1&columns=6)
 
-![](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10)
+### 📊 Activity Timeline
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
-
+</div>
 ---
 
 ## Tech Stack
