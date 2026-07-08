@@ -2,13 +2,24 @@
 # Hi, I'm Mohamed Rachoum
 
 <p align="center">
-<b>Full Stack Developer • Mobile Developer • AI & Machine Learning Developer</b>
+<b>Full Stack Developer • AI & Machine Learning Developer • Mobile Developer</b>
 </p>
 
 <p align="center">
 I build modern web applications, mobile apps, AI solutions, and open-source software. I enjoy creating projects from scratch and exploring how technologies work internally.
 </p>
 
+---
+
+## GitHub Statistics
+
+### Activity & Streaks
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
+
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
 ---
 
 ## About Me
@@ -20,14 +31,7 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 
 ---
 
-## GitHub Statistics
 
-### Activity & Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
-
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
----
 
 ## Tech Stack
 
