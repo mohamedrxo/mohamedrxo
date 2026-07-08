@@ -8,9 +8,6 @@
   <a href="https://pypi.org/project/simplegrade/">
     <img src="https://img.shields.io/pypi/dm/simplegrade" alt="PyPI Downloads">
   </a>
-  <a href="https://github.com/mohamedrxo/simplegrad">
-    <img src="https://img.shields.io/github/stars/mohamedrxo/simplegrad?style=social" alt="GitHub Stars">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=mohamedrxo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
@@ -35,25 +32,32 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 
 ## GitHub Statistics
 
-<div align="center">
-
-### 📈 Performance & Skills
+### Overview & Languages
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"></td>
+    <td width="50%">
+      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true)
+
+    </td>
+    <td width="50%">
+      
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true)
+
+    </td>
   </tr>
 </table>
 
-### 🔥 Streak & Trophies
-![Streak](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10&row=1&columns=6)
+### Activity & Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
 
-### 📊 Activity Timeline
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
+### Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10&row=1&columns=4)
 
-</div>
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
 ---
 
 ## Tech Stack
