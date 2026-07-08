@@ -1,17 +1,65 @@
 
 # Hi, I'm Mohamed Rachoum
 
-Full Stack Developer | Mobile Developer | AI & Machine Learning Enthusiast
+<p align="center">
+  <a href="https://pypi.org/project/simplegrade/">
+    <img src="https://img.shields.io/pypi/v/simplegrade" alt="PyPI Version">
+  </a>
+  <a href="https://pypi.org/project/simplegrade/">
+    <img src="https://img.shields.io/pypi/dm/simplegrade" alt="PyPI Downloads">
+  </a>
+  <a href="https://github.com/mohamedrxo/simplegrad">
+    <img src="https://img.shields.io/github/stars/mohamedrxo/simplegrad?style=social" alt="GitHub Stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedrxo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
-I enjoy building scalable web applications, mobile apps, AI solutions, and open-source software. I like creating projects from scratch and exploring how modern technologies work internally.
+<p align="center">
+<b>Full Stack Developer • Mobile Developer • AI & Machine Learning Enthusiast</b>
+</p>
+
+<p align="center">
+I build modern web applications, mobile apps, AI solutions, and open-source software. I enjoy creating projects from scratch and exploring how technologies work internally.
+</p>
+
+---
 
 ## About Me
 
 - Full Stack Web Developer
-- Mobile App Developer
+- Mobile Application Developer
 - AI & Machine Learning Enthusiast
 - Open Source Contributor
-- Creator of **SimpleGrade**, a PyTorch-inspired autograd library published on PyPI
+- Creator of **SimpleGrade**, a lightweight PyTorch-inspired autograd library available on PyPI
+
+---
+
+## GitHub Statistics
+
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=mohamedrxo&show_icons=true&theme=tokyonight&hide_border=true)
+
+</td>
+<td>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrxo&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![](https://streak-stats.demolab.com?user=mohamedrxo&theme=tokyonight&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedrxo&theme=github_dark)
+
+![](https://github-profile-trophy.vercel.app/?username=mohamedrxo&theme=tokyonight&no-frame=true&margin-w=10)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohamedrxo&theme=tokyo-night&hide_border=true)
+
+---
 
 ## Tech Stack
 
@@ -65,46 +113,52 @@ I enjoy building scalable web applications, mobile apps, AI solutions, and open-
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+---
+
 ## Featured Projects
 
 ### SimpleGrade
 
-A lightweight PyTorch-inspired autograd library built completely from scratch.
+A lightweight PyTorch-inspired autograd library built completely from scratch for learning automatic differentiation and neural networks.
 
 - GitHub: https://github.com/mohamedrxo/simplegrad
-- PyPI: https://pypi.org/project/simplegrade/
+- PyPI: https://pypi.org/project/simplegrade
 
-### ChitRange 
-A modern portfolio showcasing my projects, skills, and experience as a Full Stack and AI Developer.
-- Website: https://chitrange.com/
+### ChitRange
+
+A modern full-stack chess platform featuring authentication, multiplayer gameplay, AI opponents, and a responsive user interface.
+
+- Website: https://chitrange.com
 
 ### CodeHack
-An AI-powered coding platform where developers can practice programming through interactive challenges, receive AI-assisted guidance, and improve their coding skills.
-- Live Demo: https://codehack-azure.vercel.app/
 
+An AI-powered coding platform where developers can solve programming challenges, receive AI-assisted guidance, and improve their coding skills.
 
-## Mobile Applications
-
-### Chess App
-
-Flutter chess application published on Google Play.
-
-https://play.google.com/store/apps/details?id=com.chitrange.chessapp
-
-### German For Arabs
-
-Flutter application that helps Arabic speakers learn German.
-
-https://play.google.com/store/apps/details?id=com.rxo.germanforarabs
-
-## Connect With Me
-
-- Portfolio: https://chitrange.com/
-- GitHub: https://github.com/mohamedrxo
-- PyPI: https://pypi.org/project/simplegrade/
-- LinkedIn: [[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/mohamed-rachoum-1494382b6/)](https://www.linkedin.com/in/mohamed-rachoum-1494382b6/)
+- Live Demo: https://codehack-azure.vercel.app
 
 ---
 
-Thanks for visiting my profile!
+## Mobile Applications
+
+### ChitRange Chess
+
+A Flutter chess application published on Google Play.
+
+- https://play.google.com/store/apps/details?id=com.chitrange.chessapp
+
+### German For Arabs
+
+A Flutter application that helps Arabic speakers learn German through interactive lessons.
+
+- https://play.google.com/store/apps/details?id=com.rxo.germanforarabs
+
+---
+
+## Connect With Me
+
+- Portfolio: https://chitrange.com
+- CodeHack: https://codehack-azure.vercel.app
+- GitHub: https://github.com/mohamedrxo
+- PyPI: https://pypi.org/project/simplegrade
+- LinkedIn: https://www.linkedin.com/in/mohamed-rachoum-1494382b6
 
