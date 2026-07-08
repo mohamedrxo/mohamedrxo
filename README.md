@@ -2,16 +2,6 @@
 # Hi, I'm Mohamed Rachoum
 
 <p align="center">
-  <a href="https://pypi.org/project/simplegrade/">
-    <img src="https://img.shields.io/pypi/v/simplegrade" alt="PyPI Version">
-  </a>
-  <a href="https://pypi.org/project/simplegrade/">
-    <img src="https://img.shields.io/pypi/dm/simplegrade" alt="PyPI Downloads">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mohamedrxo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
 <b>Full Stack Developer • Mobile Developer • AI & Machine Learning Developer</b>
 </p>
 
