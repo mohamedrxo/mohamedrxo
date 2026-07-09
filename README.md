@@ -96,7 +96,7 @@ A lightweight PyTorch-inspired autograd library built completely from scratch fo
 - GitHub: https://github.com/mohamedrxo/simplegrad
 - PyPI: https://pypi.org/project/simplegrade
 
-### ChitRange
+### Chitrange ( Chess ) Website
 
 A modern full-stack chess platform featuring authentication, multiplayer gameplay, AI opponents, and a responsive user interface.
 
@@ -112,7 +112,7 @@ An AI-powered coding platform where developers can solve programming challenges,
 
 ## Mobile Applications
 
-### ChitRange Chess
+### Chitrange ( Chess ) app 
 
 A Flutter chess application published on Google Play.
 
