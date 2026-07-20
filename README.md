@@ -1,6 +1,10 @@
 
 # Hi, I'm Mohamed Rachoum
 
+<h1 align="center">
+  <a href="https://mohamedrachoum.vercel.app">Visit My Portfolio</a>
+</h1>
+
 <p align="center">
 <b>Full Stack Developer • AI & Machine Learning Developer • Mobile Developer</b>
 </p>
@@ -9,9 +13,7 @@
 I build modern web applications, mobile apps, AI solutions, and open-source software. I enjoy creating projects from scratch and exploring how technologies work internally.
 </p>
 
-<p align="center">
-Portfolio: https://mohamedrachoum.vercel.app
-</p>
+
 
 ---
 
