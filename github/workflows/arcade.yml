@@ -1,0 +1,36 @@
+name: Generate arcade animation
+
+on:
+  schedule:
+    - cron: "0 */10 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pacman Graphs (Dark Mode)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+          theme: 'dark' 
+
+      - name: Prepare output folder
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/ 2>/dev/null || cp *.svg dist/ || true
+
+      - name: Deploy to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
