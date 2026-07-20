@@ -99,3 +99,9 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 - Portfolio: https://mohamedrachoum.vercel.app
 - LinkedIn: https://www.linkedin.com/in/mohamed-rachoum-1494382b6
 
+## --
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedrxo/mohamedrxo/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedrxo/mohamedrxo/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedrxo/mohamedrxo/pacman-output/pacman-contribution-graph.svg">
+</picture>
