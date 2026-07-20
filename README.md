@@ -94,9 +94,6 @@ Portfolio: https://mohamedrachoum.vercel.app
 
 ## Connect With Me
 
-- Portfolio: https://chitrange.com
-- CodeHack: https://codehack-azure.vercel.app
-- GitHub: https://github.com/mohamedrxo
-- PyPI: https://pypi.org/project/simplegrade
+- Portfolio: https://mohamedrachoum.vercel.app
 - LinkedIn: https://www.linkedin.com/in/mohamed-rachoum-1494382b6
 
