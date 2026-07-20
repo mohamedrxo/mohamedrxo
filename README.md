@@ -9,6 +9,10 @@
 I build modern web applications, mobile apps, AI solutions, and open-source software. I enjoy creating projects from scratch and exploring how technologies work internally.
 </p>
 
+<p align="center">
+Portfolio: https://mohamedrachoum.vercel.app
+</p>
+
 ---
 
 ## GitHub Statistics
@@ -87,44 +91,6 @@ I build modern web applications, mobile apps, AI solutions, and open-source soft
 
 ---
 
-## Featured Projects
-
-### SimpleGrade
-
-A lightweight PyTorch-inspired autograd library built completely from scratch for learning automatic differentiation and neural networks.
-
-- GitHub: https://github.com/mohamedrxo/simplegrad
-- PyPI: https://pypi.org/project/simplegrade
-
-### Chitrange ( Chess ) Website
-
-A modern full-stack chess platform featuring authentication, multiplayer gameplay, AI opponents, and a responsive user interface.
-
-- Website: https://chitrange.com
-
-### CodeHack
-
-An AI-powered coding platform where developers can solve programming challenges, receive AI-assisted guidance, and improve their coding skills.
-
-- Live Demo: https://codehack-azure.vercel.app
-
----
-
-## Mobile Applications
-
-### Chitrange ( Chess ) app 
-
-A Flutter chess application published on Google Play.
-
-- https://play.google.com/store/apps/details?id=com.chitrange.chessapp
-
-### German For Arabs
-
-A Flutter application that helps Arabic speakers learn German through interactive lessons.
-
-- https://play.google.com/store/apps/details?id=com.rxo.germanforarabs
-
----
 
 ## Connect With Me
 
